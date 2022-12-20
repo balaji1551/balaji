@@ -2056,7 +2056,7 @@ html, body {
 
 /* Sections background: Quote */
 .section-quote {
-  background: url(../img/web-development.jpg) center no-repeat fixed;
+  background: url(web-development.jpg) center no-repeat fixed;
 }
 
 .section-quote p {
